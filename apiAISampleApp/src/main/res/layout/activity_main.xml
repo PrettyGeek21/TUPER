@@ -14,11 +14,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/service_sample_text"
-            android:onClick="serviceSampleClick"/>
+
 
         <Button
             android:layout_width="wrap_content"
@@ -27,12 +23,7 @@
             android:onClick="buttonSampleClick"
             />
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/dialog_sample_text"
-            android:onClick="dialogSampleClick"
-            />
+
 
         <Button
             android:layout_width="wrap_content"
