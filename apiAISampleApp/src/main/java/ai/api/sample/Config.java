@@ -18,7 +18,7 @@ package ai.api.sample;
 
 public abstract class Config {
     // copy this keys from your developer dashboard
-    public static final String ACCESS_TOKEN = "67e83897ca174d1fa337f058f2dc52a4ung bgaooooo";
+    public static final String ACCESS_TOKEN = "67e83897ca174d1fa337f058f2dc52a4";
 
     public static final LanguageConfig[] languages = new LanguageConfig[]{
             new LanguageConfig("en", "a11ea1d839e3446d84e402cb97cdadfb"),
