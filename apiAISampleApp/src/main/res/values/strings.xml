@@ -16,5 +16,6 @@
     <string name="non_empty_query">Query should not be empty</string>
 
     <string name="use_bluetooth_headset">Use Bluetooth headset</string>
+    <string name="talk">TALK</string>
 
 </resources>
